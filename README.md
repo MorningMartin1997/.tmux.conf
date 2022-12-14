@@ -1,2 +1,3 @@
 # .tmux.conf
-My personalized tmux configuration
+
+My personalized tmux configuration.
